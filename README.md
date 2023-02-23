@@ -3,7 +3,7 @@
 # Title: Code Refactor
 
 # Deployment
-[Live]()
+[Live](https://michaelmcghee.github.io/challenge1-code-refactor/)
 
 
 ## Author:
@@ -36,6 +36,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+### Screenshot:
+![Screenshot](https://github.com/MichaelMcGhee/challenge1-code-refactor/blob/main/assets/screenshot/Capture.PNG)
 
 #### Resources:
 1. [w3schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
